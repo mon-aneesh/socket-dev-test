@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "apis": [
+    {
+      "identifier": "socketdev",
+      "source": "@socketdev/v0#1j08r7om72giqhv",
+      "integrity": "sha512-ljIAUV7I56Eeu6DcR5MPLI2iZApMRV0lypzgjs+M2LTMIPmQYHVYYppyvMhjr0062MXmb9Okak6uwAekLSXTWA==",
+      "installerVersion": "6.1.2"
+    }
+  ]
+}
